@@ -77,5 +77,6 @@ This will show value count of product_name group by order_date on the googleshee
 ```
 ![ex2](https://github.com/syunar/my-restaurant-database-and-application/blob/5808e333ddd65f4a7c9aa7c44419aa2c16076914/ex2.png)
 ### 3. Print out the invoices
+![ex3](https://github.com/syunar/my-restaurant-database-and-application/blob/910e7b3175b49a209ce3343a0414d9588d5d25bc/ex3.png)
 ### 4. Update Delivery Status
 ### 5. Update Payment Status
