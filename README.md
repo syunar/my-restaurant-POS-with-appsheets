@@ -3,8 +3,10 @@
 
 Before using data science to help your business the most important thing should be the data right?, So I create the application that collects the transaction and then connects to the database, ER Diagram, Data model design, and Query will use here.
 
-So this project is like Phase 1 to collect the data and then in Phase 2, I will use this data to analyze the customer behavior e.g. customer segmentation and contextual marketing, analyze the products, etc. the point is
- to maintain and increase customers and sales.
+So this project is like Phase 1 to collect the data and then in Phase 2, I will use this data to analyze the customer behavior e.g. customer segmentation and contextual marketing, analyze the products, etc. the point is to maintain and increase customers and sales.
+ 
+![Cover](https://github.com/syunar/my-restaurant-database-and-application/blob/ff9206a62f63902bf6912fcd1c8a39318ae8745b/cover.jpg)
+ 
 ## Authors
 
 - [@fronksupakorn](https://github.com/syunar)
