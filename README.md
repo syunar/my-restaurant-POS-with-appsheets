@@ -76,7 +76,7 @@ This will show value count of product_name group by order_date on the googleshee
     LABEL Col8*SUM(Col4) 'total_prices'", 1)
 ```
 ![ex2](https://github.com/syunar/my-restaurant-database-and-application/blob/5808e333ddd65f4a7c9aa7c44419aa2c16076914/ex2.png)
-### 3. Print out the invoices
+### 3. Export invoice in PDF format
 ![ex3](https://github.com/syunar/my-restaurant-database-and-application/blob/814f853cb817917b725fce19fd0fde7fe1e80f5f/ex3.png)
 ### 4. Update Delivery & Payment Status
 If you click on those 2 buttons, will have small icon appear in front of the row which means this order has already delivered or paid
