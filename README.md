@@ -50,7 +50,7 @@ On the application we have 5 menus here:
 
 ## Usage/Examples
 ### 1. Add some orders
-![ex1](https://github.com/syunar/my-restaurant-database-and-application/blob/2355503304ee6239795399f64437ba479045558e/ex1.png)
+![ex1](https://github.com/syunar/my-restaurant-database-and-application/blob/8f7f30e768d9e2f15129ba2c539252585e70fbf3/ex1.png)
 ### 2. Check the total sum orders to buy the raw material
 This will show value count of product_name group by order_date on the googlesheet formula
 ```googlesheet
