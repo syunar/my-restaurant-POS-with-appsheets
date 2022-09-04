@@ -81,4 +81,4 @@ This will show value count of product_name group by order_date on the googleshee
 ### 4. Update Delivery & Payment Status
 If you click on those 2 buttons, will have small icon appear in front of the row which means this order has already delivered or paid
 
-![ex4](https://github.com/syunar/my-restaurant-database-and-application/blob/1bc829931c4c7a161d340812483f0ed9627ee228/ex4.png)
+![ex4](https://github.com/syunar/my-restaurant-database-and-application/blob/211dab8498be5c6c91341c8f8dd355c60425f594/ex4.png)
