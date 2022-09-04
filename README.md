@@ -22,7 +22,7 @@ So this project is like Phase 1 to collect the data and then in Phase 2, I will 
     - use as the database
     - design data model & ER Diagram
     - query the data from the database to show on the application
-- AppSheet
+- AppSheet [tl;dr No code, Low code platform to deploy application](https://support.google.com/appsheet/?hl=en#topic=11981018)
     - connect to database / CRUD (create, read, update, delete)
     - to deploy the application
     
