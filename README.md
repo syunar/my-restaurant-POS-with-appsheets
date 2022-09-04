@@ -52,7 +52,29 @@ On the application we have 5 menus here:
 ![ex1](https://github.com/syunar/my-restaurant-database-and-application/blob/b044b94a7465b16e19d560c4e5760282367ff040/ex1.png)
 ### 2. Check the total sum orders to buy the raw material
 This will show value count of product group by order_date
-
+```googlesheet
+=QUERY(
+    {OrderDetails!A1:D1,
+    "delivery_date",
+    "product_name",
+    "category",
+    "price";
+    OrderDetails!A2:D,
+    ARRAYFORMULA(
+        IFERROR(VLOOKUP(OrderDetails!B2:B, Orders!$A:$D,4,0), "")),
+    ARRAYFORMULA(
+        IFERROR(VLOOKUP(OrderDetails!C2:C, Products!$A:$E,{2,3,4}, 0), ""))
+    },
+    
+    "Select Col5,
+            Col6,
+            Col8, 
+            SUM(Col4),
+            Col8*SUM(Col4)
+    WHERE Col5 is not null 
+    GROUP BY Col5, Col6, Col8 
+    LABEL Col8*SUM(Col4) 'total_prices'", 1)
+```
 ![ex2](https://github.com/syunar/my-restaurant-database-and-application/blob/5808e333ddd65f4a7c9aa7c44419aa2c16076914/ex2.png)
 ### 3. Print out the invoices
 ### 4. Update Delivery Status
