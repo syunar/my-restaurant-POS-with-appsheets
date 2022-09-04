@@ -49,7 +49,7 @@ On the application we have 5 menus here:
 
 ## Usage/Examples
 ### 1. Add some orders
-![ex1](https://github.com/syunar/my-restaurant-database-and-application/blob/a0e75b347b603944edf2d42fa777d1d9a4dabdbd/example1.png)
+![ex1](https://github.com/syunar/my-restaurant-database-and-application/blob/b044b94a7465b16e19d560c4e5760282367ff040/ex1.png)
 ### 2. Check the total sum orders to buy the raw material
 ### 3. Print out the invoices
 ### 4. Update Delivery Status
