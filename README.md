@@ -51,6 +51,8 @@ On the application we have 5 menus here:
 ### 1. Add some orders
 ![ex1](https://github.com/syunar/my-restaurant-database-and-application/blob/b044b94a7465b16e19d560c4e5760282367ff040/ex1.png)
 ### 2. Check the total sum orders to buy the raw material
+This will show value count of product group by order_date
+![ex2](https://github.com/syunar/my-restaurant-database-and-application/blob/b044b94a7465b16e19d560c4e5760282367ff040/ex2.png)
 ### 3. Print out the invoices
 ### 4. Update Delivery Status
 ### 5. Update Payment Status
