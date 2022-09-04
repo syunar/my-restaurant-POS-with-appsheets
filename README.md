@@ -25,7 +25,8 @@ So this project is like Phase 1 to collect the data and then in Phase 2, I will 
 - AppSheet
     - connect to database / CRUD (create, read, update, delete)
     - to deploy the application
-
+    
+![erdia](https://github.com/syunar/my-restaurant-database-and-application/blob/ee91c906490aba709d69586cc95319bc68c8d9c0/ER_diagram.jpg)
 
 ## Features
 
